@@ -21,7 +21,7 @@ In this screenshot:
 
 
 # Notes
-Certain class and functions and procedures have been renamed this helps avoid confusion with the original code.
+Certain class, functions and procedures have been renamed to help avoid confusion with the original code.
 
 
 # Future
