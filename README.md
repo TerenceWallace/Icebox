@@ -9,7 +9,7 @@ https://github.com/federicodangelo/MultiAgentSimulation
 
 
 # Screenshot
-![Alt text](/Icebox/screenshot.jpg?raw=true "Icebox Screen")
+![Screenshot](screenshot.jpg)
 
 
 
